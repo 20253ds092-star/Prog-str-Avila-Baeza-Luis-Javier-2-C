@@ -1,5 +1,9 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+ * Proyecto: Proyecto_01
+ * Descripción: Estructura inicial del proyecto de programación en Java.
+ * Autor: Luis Javier Avila Baeza
+ * Fecha: 14/01/2026
+ */
 public class Main {
     public static void main(String[] args) {
 
