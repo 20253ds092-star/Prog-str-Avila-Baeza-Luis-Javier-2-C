@@ -3,10 +3,8 @@
 public class Main {
 
     public static void main(String[] args) {
-
-        System.out.println("Mensaje desde main");
-
-        System.out.println("Mensaje desde feature");
+        // Así debe quedar la línea según la instrucción
+        System.out.println("main + feature");
     }
 
 }
